@@ -1,0 +1,59 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{
+    background:#41e184;
+    color:#000000;
+}
+
+img{
+    border-radius: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
+p{
+    padding: 20px;
+    text-align: center;
+    background:#41e184;
+    color: #3700ff;
+}
+
+input{
+    text-align: center;
+    border-radius: 30px;
+}
+
+table{
+    border-radius: 30px;
+    margin: auto;
+    width: 600px;
+    height: 600px;
+    background-color: #1f56ec;   
+}
+
+th{
+    border-radius: 20px;
+    padding-left: 10px;
+    padding-right: 70px;
+    text-align: left;
+    color: #ffe600;
+    border: #ffffff solid;
+} 
+
+td{
+    border-radius: 20px;
+    padding-left: 30px;
+    text-align: left;
+    border: #ffffff solid;
+}
+
+.buttons{
+    border-radius: 20px;
+    text-align: center;
+    border: #ffffff solid;
+}
